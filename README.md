@@ -1,6 +1,6 @@
 # LED-matrix-Robot-mouth
 ## Requirements
-- Arduino uno
+- Arduino Board
 - LED Matrix
 - Breadboard
 - Wires
