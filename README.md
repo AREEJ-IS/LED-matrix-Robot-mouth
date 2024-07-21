@@ -7,7 +7,9 @@
 
 ## Build the Robot mouth
 
-<img width="1439" alt="Screen Shot 2024-07-21 at 8 53 49 PM" src="https://github.com/user-attachments/assets/13833e04-c1fa-49af-9846-0c02117d0809">
+<img width="1440" alt="Screen Shot 2024-07-21 at 9 48 33 PM" src="https://github.com/user-attachments/assets/5605d469-f883-41ef-8d94-4e3a84b8bd73">
+
+
 
 <img width="1440" alt="Screen Shot 2024-07-21 at 9 48 11 PM" src="https://github.com/user-attachments/assets/2f4222f3-5d09-4d0a-bc85-2f5622a5c3db">
 
